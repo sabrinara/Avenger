@@ -1,0 +1,34 @@
+/* .container {
+    color: green;
+} */
+
+.cart {
+    width: 200px;
+    height: 300px;
+    /* background-color: beige; */
+    color: black;
+    border: 1px solid;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap:wrap ;
+    
+}
+.cart-actor {
+    width: 200px;
+    height: 150px;
+    border: 1px solid rgb(228, 209, 209);
+    border-radius: 10px;
+    background-color: beige;
+
+}
+.cart-casting {
+    width: 200px;
+    height: auto;
+    border: 1px solid rgb(228, 209, 209);
+    border-radius: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    margin-top: 10px;
+    background-color: beige;
+    /* display: flex;
+    flex-wrap:wrap ; */
+}
